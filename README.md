@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**bedirhansahin/bedirhansahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bedirhan. I live in Istanbul/Turkey. I am currently working as data and backend developer at [Ozyegin University](https://www.ozyegin.edu.tr/en) IT department.
 
-Here are some ideas to get you started:
+### My Tech Stack
+- Python
+  - Django
+  - FastAPI
+  - Django Rest Framework
+  - Scrapy
+  - Beautiful Soup
+- Docker
+- SQL & NoSQL
+  - PostgreSQL
+  - Microsoft SQL Server
+  - MongoDB
+  - Redis
+- Linux
+- AWS
+  - S3
+  - EC2
+- Apache Airflow
+- Atlassian
+  - Jira
+  - Confluence
+- Frontend
+  - HTML
+  - CSS
+  - Bootstrap
+- ETL
+  - ODI
+  - SSIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I'm trying to learn
+- AWS Serverless
+- Ruby On Rails
+- Go
+- Node JS
+- React
