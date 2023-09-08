@@ -37,6 +37,3 @@ I'm Bedirhan. I live in Istanbul/Turkey. I am currently working as data and back
 ### Technologies I'm trying to learn
 - AWS Serverless
 - Ruby On Rails
-- Go
-- Node JS
-- React
