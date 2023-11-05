@@ -14,6 +14,9 @@ I am also an artificial intelligence graduate student at Özyeğin University.
   - Django Rest Framework
   - Scrapy
   - Beautiful Soup
+  - NumPy
+  - PyTorch
+  - OpenCV
 - Docker
 - SQL & NoSQL
   - PostgreSQL
