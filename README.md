@@ -38,7 +38,3 @@ I am also an artificial intelligence graduate student at Özyeğin University.
 - ETL
   - ODI
   - SSIS
-
-### Technologies I'm trying to learn
-- AWS Serverless
-- Ruby On Rails
