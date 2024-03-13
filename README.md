@@ -12,29 +12,14 @@ I am also an artificial intelligence graduate student at Özyeğin University.
   - Django
   - FastAPI
   - Django Rest Framework
-  - Scrapy
-  - Beautiful Soup
-  - NumPy
+  - Web Scraping
+  - PySpark
   - PyTorch
-  - OpenCV
 - Docker
-- SQL & NoSQL
-  - PostgreSQL
-  - Microsoft SQL Server
-  - MongoDB
-  - Redis
 - Linux
-- AWS
-  - S3
-  - EC2
 - Apache Airflow
-- Atlassian
-  - Jira
-  - Confluence
-- Frontend
-  - HTML
-  - CSS
-  - Bootstrap
-- ETL
-  - ODI
-  - SSIS
+- Apache Spark
+- Apache Hive
+- Apache Kafka
+- Apache Hadoop
+- Apache NiFi
