@@ -14,12 +14,21 @@ I am also an artificial intelligence graduate student at Özyeğin University.
   - Django Rest Framework
   - Web Scraping
   - PySpark
-  - PyTorch
+- Go
+- SQL
+  - PostgreSQL
+  - SQL Server
+  - ClickHouse
+  - DuckDB
+  - SQLite
+- NoSQL
+  - MongoDB
+  - Redis
 - Docker
 - Linux
 - Apache Airflow
 - Apache Spark
 - Apache Hive
 - Apache Kafka
-- Apache Hadoop
 - Apache NiFi
+- dbt
