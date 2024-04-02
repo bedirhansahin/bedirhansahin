@@ -15,6 +15,7 @@ I am also an artificial intelligence graduate student at Özyeğin University.
   - Web Scraping
   - PySpark
 - Go
+  - Gin
 - SQL
   - PostgreSQL
   - SQL Server
